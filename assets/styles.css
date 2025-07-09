@@ -1,0 +1,15 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #ff9f43;
+}
+
+.dash-graph {
+    background-color: #333;
+    border-radius: 5px;
+    padding: 10px;
+}
