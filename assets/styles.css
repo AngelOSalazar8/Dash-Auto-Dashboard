@@ -1,15 +1,16 @@
 body {
     background-color: #222;
-    color: white;
+    color: gray;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-    color: #ff9f43;
+    color: white;
 }
 
 .dash-graph {
-    background-color: #333;
+    background-color: gray;
     border-radius: 5px;
     padding: 10px;
 }
+
